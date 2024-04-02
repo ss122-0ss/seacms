@@ -1,5 +1,10 @@
 # Seacms admin_template.php has any file deletion
-
+- **Exploit Title:** Seacms admin_template.php has any file deletion
+- **Date:** 2024-04-01
+- **Exploit Author:** shuo sheng,jixin zhang
+- **Vendor Homepage:** https://www.seacms.net/
+- **Software Link:** [https://github.com/seacms-net/CMS](https://github.com/seacms-net/CMS/blob/master/%E6%B5%B7%E6%B4%8BCMS%E5%AE%89%E8%A3%85%E5%8C%85_SeaCMS_12.9.zip)
+- **Version:** Seacms 12.9
 The code vulnerability is located on line 114 of admin_template.php and does not verify the suffix of deleted files, resulting in the deletion of arbitrary files
 
 ```php
